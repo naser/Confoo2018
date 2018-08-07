@@ -1,1 +1,1 @@
-# Confoo 2018 Montreal Presentation File
+# Confoo 2018 Montreal Presentation Slides
